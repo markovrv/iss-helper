@@ -1,5 +1,7 @@
 # iss-helper
 
+Для работы требуется установленный https://nodejs.org/en
+
 Установка:
 ```
 npm i
